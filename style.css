@@ -1,0 +1,29 @@
+html, body{
+    background-color: rgb(187, 115, 183);
+    height: 100%;
+}
+
+#heart{
+    width: 100%;
+    height: 50%;
+}
+
+#heart button {
+    background: transparent;
+    border: 0;
+    width: 30%;
+    position: absolute;
+    left: 35%;
+    top: 10%;
+}
+button:hover {
+    cursor: pointer;
+}
+
+#text{
+    background-color: rgb(228, 228, 228);
+    color: black;
+    text-align: center;
+    font-size: 150%;
+}
+
